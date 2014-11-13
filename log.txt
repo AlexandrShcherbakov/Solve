@@ -1,0 +1,7 @@
+[2014-11-06 20:48:20 +0000] [9040] [INFO] Starting gunicorn 19.1.1
+[2014-11-06 20:48:20 +0000] [9040] [INFO] Listening at: http://127.0.0.1:8080 (9040)
+[2014-11-06 20:48:20 +0000] [9040] [INFO] Using worker: sync
+[2014-11-06 20:48:20 +0000] [9045] [INFO] Booting worker with pid: 9045
+[2014-11-06 17:03:28 +0000] [9045] [INFO] Worker exiting (pid: 9045)
+[2014-11-06 21:03:28 +0000] [9040] [INFO] Handling signal: int
+[2014-11-06 21:03:28 +0000] [9040] [INFO] Shutting down: Master
